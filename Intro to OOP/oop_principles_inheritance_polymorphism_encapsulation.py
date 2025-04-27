@@ -1,3 +1,4 @@
+#inheritance
 # Parent class
 class Vehicle:
     # Constructor for the parent class
